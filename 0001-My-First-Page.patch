@@ -1,0 +1,60 @@
+From 150857bf4a3004330901c64637e1786a26b90fa3 Mon Sep 17 00:00:00 2001
+From: kinjud <107286970+kinjud@users.noreply.github.com>
+Date: Sun, 17 Jul 2022 23:14:11 -0700
+Subject: [PATCH] My First Page
+
+---
+ .DS_Store       | Bin 0 -> 6148 bytes
+ Mod2/index.html |   9 +++++++++
+ site/index.html |   2 +-
+ 3 files changed, 10 insertions(+), 1 deletion(-)
+ create mode 100644 .DS_Store
+ create mode 100644 Mod2/index.html
+
+diff --git a/.DS_Store b/.DS_Store
+new file mode 100644
+index 0000000000000000000000000000000000000000..daa9934c7562f5d343b565cd36f2fac0c089e2f1
+GIT binary patch
+literal 6148
+zcmeHKyGjH>5Ukb>4oogIoL|r{7>+YE@&`oMKseaoG~dYYx=*wEf!whyn3za4^wdmG
+z*9=p^_BH_9eU5j)7Qlw?h%X<O=KJmoyQ+wz`5EK!_3$!HhehUkz_|k+F=530Ie)+r
+z@A$ymd2sz4?MMMBAO)m=6p#YHQ-C$wZF7^TQ3^-_De$9!e;*p%u@}yX@#)|YEdX&~
+zIE?e?C5X)f#9lZjGD5SY5|e7xVp!4{Z<W^z=ftGL;%1&xH(PZm7Pm9rA|2KfHA(>~
+zaH+s`F1KF)ALuLn|0PK)DIf*@l>#>GpY}UGscP%uab9a1{h97LC%PNwLE#YPm>A`l
+g3opmFk(7DO=iKjwb7IgL4?0ml1Fnlq3jDPK-*b={l>h($
+
+literal 0
+HcmV?d00001
+
+diff --git a/Mod2/index.html b/Mod2/index.html
+new file mode 100644
+index 0000000..dcc5cd4
+--- /dev/null
++++ b/Mod2/index.html
+@@ -0,0 +1,9 @@
++<!DOCTYPE html>
++<html>
++<head>
++	<title>Menu</title>
++</head>
++<body>
++<h1>Test123</h1>
++</body>
++</html>
+\ No newline at end of file
+diff --git a/site/index.html b/site/index.html
+index 6fa7c86..0e75f31 100644
+--- a/site/index.html
++++ b/site/index.html
+@@ -4,6 +4,6 @@
+ 	<title>Hello Coursera!</title>
+ </head>
+ <body>
+-<h1>Hello Coursera! It's a great course.</h1>
++<h1>Hello Coursera!</h1>
+ </body>
+ </html>
+\ No newline at end of file
+-- 
+2.36.1
+

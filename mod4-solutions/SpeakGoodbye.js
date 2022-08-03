@@ -8,3 +8,5 @@
 	 window.byeSpeaker = byeSpeaker;
 
 })(window); 
+
+// correction
